@@ -6,15 +6,15 @@ Hello! I'm [Your Name], a passionate and dedicated third-year student at the Uni
 
 About Me
 👨‍🎓 University of Toronto | Bachelor of Arts in Economics
+
 📚 Minors: Statistics and Environmental Ethics
+
 🌍 Passionate about leveraging economic principles to promote environmental sustainability.
+
 📈 Adept in quantitative analysis, statistical modeling, and data visualization.
+
 💼 Aspiring to contribute to research and policy-making that fosters sustainable development.
-Skills
-Languages: Python (Pandas, NumPy, Matplotlib), R, SQL
-Tools & Technologies: Jupyter Notebook, RStudio, Git, LaTeX
-Soft Skills: Analytical Thinking, Communication, Teamwork, Problem-Solving
-Projects
+
 Here are a few projects I've worked on that showcase my skills and interests in economics, statistics, and environmental ethics:
 
 Economic Analysis of Renewable Energy Sources: An econometric study examining the impact of renewable energy adoption on economic growth.
