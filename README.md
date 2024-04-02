@@ -4,7 +4,8 @@ Welcome to My GitHub Profile! 🌟
 
 Hello! I'm Fatimah, a passionate and dedicated third-year student at the University of Toronto, majoring in Economics with minors in Statistics and Environmental Ethics. I am deeply fascinated by the intersection of economics and environmental sustainability and how statistical tools can be leveraged to solve complex environmental issues.
 
-About Me
+# About Me
+
 👨‍🎓 University of Toronto | Bachelor of Arts in Economics
 
 📚 Minors: Statistics and Environmental Ethics
@@ -15,7 +16,7 @@ About Me
 
 💼 Aspiring to contribute to research and policy-making that fosters sustainable development.
 
-Here are a few projects I've worked on that showcase my skills and interests in economics, statistics, and environmental ethics:
+# Here are a few projects I've worked on that showcase my skills and interests in economics, statistics, and environmental ethics:
 
 Economic Analysis of Renewable Energy Sources: An econometric study examining the impact of renewable energy adoption on economic growth.
 
@@ -24,4 +25,4 @@ Statistical Modeling of Environmental Data: Utilizing R to analyze and model env
 Ethical Implications of Climate Policies: A research paper exploring the ethical considerations in formulating climate change policies.
 
 
-I'm always open to collaborating on projects or discussing ideas that aim to make a positive impact on our world. Feel free to reach out if you'd like to connect!
+## I'm always open to collaborating on projects or discussing ideas that aim to make a positive impact on our world. Feel free to reach out if you'd like to connect!
