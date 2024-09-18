@@ -2,7 +2,7 @@
 
 Welcome to My GitHub Profile! 🌟
 
-Hello! I'm Fatimah, a passionate and dedicated third-year student at the University of Toronto, majoring in Economics with minors in Statistics and Environmental Ethics. I am deeply fascinated by the intersection of economics and environmental sustainability and how statistical tools can be leveraged to solve complex environmental issues.
+Hello! I'm Fatimah, a passionate and dedicated fourth-year student at the University of Toronto, majoring in Economics with minors in Statistics and Environmental Ethics. I am deeply fascinated by the intersection of economics and environmental sustainability and how statistical tools can be leveraged to solve complex environmental issues.
 
 # About Me
 
