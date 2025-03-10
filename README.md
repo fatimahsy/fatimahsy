@@ -16,7 +16,7 @@ Hello! I'm Fatimah, a fourth-year student at the University of Toronto, majoring
 
 💼 Aspiring to contribute to research and policy-making that fosters sustainable development.
 
-# Here are a few projects I've worked on that showcase my skills and interests in economics, statistics, and environmental ethics:
+# Here are a few projects I've worked on:
 
 Corruption Perception in Nigeria: Used Bayesian ordinal logistic regression in R to analyze Afrobarometer survey data, revealing how education, gender, and urbanization shape corruption perception. Applied data cleaning, imputation, and transformation techniques to extract policy insights.
 
