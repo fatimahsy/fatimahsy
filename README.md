@@ -2,7 +2,7 @@
 
 Welcome to My GitHub Profile! 🌟
 
-Hello! I'm Fatimah, a passionate and dedicated fourth-year student at the University of Toronto, majoring in Economics with minors in Statistics and Environmental Ethics. I am deeply fascinated by the intersection of economics and environmental sustainability and how statistical tools can be leveraged to solve complex environmental issues.
+Hello! I'm Fatimah, a fourth-year student at the University of Toronto, majoring in Economics with minors in Statistics and Environmental Ethics. I am deeply fascinated by the intersection of economics, business analytics, environmental sustainability,  and how statistical tools can be leveraged to solve complex environmental issues.
 
 # About Me
 
@@ -10,7 +10,7 @@ Hello! I'm Fatimah, a passionate and dedicated fourth-year student at the Univer
 
 📚 Minors: Statistics and Environmental Ethics
 
-🌍 Passionate about leveraging economic principles to promote environmental sustainability.
+🌍 Passionate about leveraging statistical tools to drive data-informed decision-making in developing economies.  
 
 📈 Adept in quantitative analysis, statistical modeling, and data visualization.
 
@@ -18,11 +18,11 @@ Hello! I'm Fatimah, a passionate and dedicated fourth-year student at the Univer
 
 # Here are a few projects I've worked on that showcase my skills and interests in economics, statistics, and environmental ethics:
 
+Corruption Perception in Nigeria: Used Bayesian ordinal logistic regression in R to analyze Afrobarometer survey data, revealing how education, gender, and urbanization shape corruption perception. Applied data cleaning, imputation, and transformation techniques to extract policy insights.
+
+2024 U.S. Election Forecasting: Built a logistic regression model with MPR in R to predict voter behavior. Improved accuracy through feature engineering, demographic weighting, and extensive data cleaning.
+
 Economic Analysis of Renewable Energy Sources: An econometric study examining the impact of renewable energy adoption on economic growth.
-
-Statistical Modeling of Environmental Data: Utilizing R to analyze and model environmental data to predict pollution trends.
-
-Ethical Implications of Climate Policies: A research paper exploring the ethical considerations in formulating climate change policies.
 
 
 ## I'm always open to collaborating on projects or discussing ideas that aim to make a positive impact on our world. Feel free to reach out if you'd like to connect!
